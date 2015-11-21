@@ -1,17 +1,13 @@
-// The Nature of Code
-// Daniel Shiffman
-// http://natureofcode.com
 
-// Example 1-1: Bouncing Ball, no vectors
 
-var canvasWidth = 500;
-var canvasHeight = 500;
+var canvasWidth = 1080;
+var canvasHeight = 1080;
 var x = 100;
 var y = 100;
 var xspeed = 2.5;
 var yspeed = 2;
 
-var radius = 100;
+var radius = 500;
 var angle = 0;
 var clock = true;
 var DEBUG = false;
@@ -109,7 +105,7 @@ function rad(angle) {
    return angle / 180 * Math.PI;
 }
 
-function keyPressed() {
+function mousePressed() {
     if (state === STATE_GAMEOVER) {
       state = STATE_IDLE;
       angle = 0;
