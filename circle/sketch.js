@@ -1,13 +1,13 @@
 
 
-var canvasWidth = 1080;
-var canvasHeight = 1080;
+var canvasWidth = 800;
+var canvasHeight = 800;
 var x = 100;
 var y = 100;
 var xspeed = 2.5;
 var yspeed = 2;
 
-var radius = 500;
+var radius = 350;
 var angle = 0;
 var clock = true;
 var DEBUG = false;
@@ -149,7 +149,7 @@ function draw() {
   }
   var gameOver = (state === STATE_GAMEOVER);
   if(!gameOver) {
-    angle += (clock ?  1 : -1) * 3;
+    angle += (clock ?  1 : -1) * 5;
     if(angle > 360) {
         angle -= 360;
     }
