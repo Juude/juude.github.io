@@ -149,7 +149,7 @@ function draw() {
   }
   var gameOver = (state === STATE_GAMEOVER);
   if(!gameOver) {
-    angle += (clock ?  1 : -1) * 5;
+    angle += (clock ?  1 : -1) * 8;
     if(angle > 360) {
         angle -= 360;
     }
