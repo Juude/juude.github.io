@@ -1,0 +1,293 @@
+"SearchItem": {
+    "recommend": "zhiwudazhan",
+    "hotItems": [
+      {
+        "index": 1,
+        "searchAppimg": "http://192.168.22.13:3000/img/iconbig.png",
+        "appname": "植物大战",
+        "companyName": "company Name",
+        "flowernumber": "16",
+        "classifyIcon": "http://192.168.22.13:3000/img/tag_game.png",
+        "download": "http://192.168.22.13:3000/apk/app.apk",
+        "lableIcon": {
+          "appage": "6-8岁",
+          "imgs": [
+            "http://192.168.22.13:3000/img/Intelligent_1.png",
+            "http://192.168.22.13:3000/img/Intelligent_2.png",
+            "http://192.168.22.13:3000/img/Intelligent_3.png"
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "searchAppimg": "http://192.168.22.13:3000/img/iconbig.png",
+        "appname": "植物大战1",
+        "companyName": "company Name",
+        "flowernumber": "17",
+        "classifyIcon": "http://192.168.22.13:3000/img/tag_game.png",
+        "download": "http://192.168.22.13:3000/apk/app.apk",
+        "lableIcon": {
+          "appage": "6-8岁",
+          "imgs": [
+            "http://192.168.22.13:3000/img/Intelligent_1.png",
+            "http://192.168.22.13:3000/img/Intelligent_2.png",
+            "http://192.168.22.13:3000/img/Intelligent_3.png"
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "searchAppimg": "http://192.168.22.13:3000/img/iconbig.png",
+        "appname": "植物大战2",
+        "companyName": "company Name",
+        "flowernumber": "18",
+        "classifyIcon": "http://192.168.22.13:3000/img/tag_game.png",
+        "download": "http://192.168.22.13:3000/apk/app.apk",
+        "lableIcon": {
+          "appage": "6-8岁",
+          "imgs": [
+            "http://192.168.22.13:3000/img/Intelligent_1.png",
+            "http://192.168.22.13:3000/img/Intelligent_2.png",
+            "http://192.168.22.13:3000/img/Intelligent_3.png"
+          ]
+        }
+      },
+      {
+        "index": 4,
+        "searchAppimg": "http://192.168.22.13:3000/img/iconbig.png",
+        "appname": "植物大战3",
+        "companyName": "company Name",
+        "flowernumber": "19",
+        "classifyIcon": "http://192.168.22.13:3000/img/tag_game.png",
+        "download": "http://192.168.22.13:3000/apk/app.apk",
+        "lableIcon": {
+          "appage": "6-8岁",
+          "imgs": [
+            "http://192.168.22.13:3000/img/Intelligent_1.png",
+            "http://192.168.22.13:3000/img/Intelligent_2.png",
+            "http://192.168.22.13:3000/img/Intelligent_3.png"
+          ]
+        }
+      },
+      {
+        "index": 5,
+        "searchAppimg": "http://192.168.22.13:3000/img/iconbig.png",
+        "appname": "植物大战4",
+        "companyName": "company Name",
+        "flowernumber": "20",
+        "classifyIcon": "http://192.168.22.13:3000/img/tag_game.png",
+        "download": "http://192.168.22.13:3000/apk/app.apk",
+        "lableIcon": {
+          "appage": "6-8岁",
+          "imgs": [
+            "http://192.168.22.13:3000/img/Intelligent_1.png",
+            "http://192.168.22.13:3000/img/Intelligent_2.png",
+            "http://192.168.22.13:3000/img/Intelligent_3.png"
+          ]
+        }
+      },
+      {
+        "index": 6,
+        "searchAppimg": "http://192.168.22.13:3000/img/iconbig.png",
+        "appname": "植物大战5",
+        "companyName": "company Name",
+        "flowernumber": "21",
+        "classifyIcon": "http://192.168.22.13:3000/img/tag_game.png",
+        "download": "http://192.168.22.13:3000/apk/app.apk",
+        "lableIcon": {
+          "appage": "6-8岁",
+          "imgs": [
+            "http://192.168.22.13:3000/img/Intelligent_1.png",
+            "http://192.168.22.13:3000/img/Intelligent_2.png",
+            "http://192.168.22.13:3000/img/Intelligent_3.png"
+          ]
+        }
+      }
+    ]
+  },
+  "HotSearchItem": {
+    "hotItems": [
+      {
+        "index": 1,
+        "searchAppimg": "http://192.168.22.13:3000/img/iconbig.png",
+        "appname": "植物大战",
+        "companyName": "company Name",
+        "flowernumber": "16",
+        "classifyIcon": "http://192.168.22.13:3000/img/tag_game.png",
+        "download": "http://192.168.22.13:3000/apk/app.apk",
+        "showVideo": "http://192.168.22.13:3000/video/aaa.mp4",
+        "appVideoImg": "http://192.168.22.13:3000/img/eg2.png",
+        "lableIcon": {
+          "appage": "6-8岁",
+          "imgs": [
+            "http://192.168.22.13:3000/img/Intelligent_1.png",
+            "http://192.168.22.13:3000/img/Intelligent_2.png",
+            "http://192.168.22.13:3000/img/Intelligent_3.png"
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "searchAppimg": "http://192.168.22.13:3000/img/iconbig.png",
+        "appname": "植物大战2",
+        "companyName": "company Name",
+        "flowernumber": "17",
+        "classifyIcon": "http://192.168.22.13:3000/img/tag_game.png",
+        "download": "http://192.168.22.13:3000/apk/app.apk",
+        "showVideo": "http://192.168.22.13:3000/video/aaa.mp4",
+        "appVideoImg": "http://192.168.22.13:3000/img/eg1.png",
+        "lableIcon": {
+          "appage": "6-8岁",
+          "imgs": [
+            "http://192.168.22.13:3000/img/Intelligent_1.png",
+            "http://192.168.22.13:3000/img/Intelligent_2.png",
+            "http://192.168.22.13:3000/img/Intelligent_3.png"
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "searchAppimg": "http://192.168.22.13:3000/img/iconbig.png",
+        "appname": "植物大战3",
+        "companyName": "company Name",
+        "flowernumber": "18",
+        "classifyIcon": "http://192.168.22.13:3000/img/tag_game.png",
+        "download": "http://192.168.22.13:3000/apk/app.apk",
+        "showVideo": "http://192.168.22.13:3000/video/aaa.mp4",
+        "appVideoImg": "http://192.168.22.13:3000/img/eg2.png",
+        "lableIcon": {
+          "appage": "6-8岁",
+          "imgs": [
+            "http://192.168.22.13:3000/img/Intelligent_1.png",
+            "http://192.168.22.13:3000/img/Intelligent_2.png",
+            "http://192.168.22.13:3000/img/Intelligent_3.png"
+          ]
+        }
+      },
+      {
+        "index": 4,
+        "searchAppimg": "http://192.168.22.13:3000/img/iconbig.png",
+        "appname": "植物大战4",
+        "companyName": "company Name",
+        "flowernumber": "19",
+        "classifyIcon": "http://192.168.22.13:3000/img/tag_game.png",
+        "download": "http://192.168.22.13:3000/apk/app.apk",
+        "showVideo": "http://192.168.22.13:3000/video/aaa.mp4",
+        "appVideoImg": "http://192.168.22.13:3000/img/eg1.png",
+        "lableIcon": {
+          "appage": "6-8岁",
+          "imgs": [
+            "http://192.168.22.13:3000/img/Intelligent_1.png",
+            "http://192.168.22.13:3000/img/Intelligent_2.png",
+            "http://192.168.22.13:3000/img/Intelligent_3.png"
+          ]
+        }
+      }
+    ]
+  },
+  "Searchlabel": [
+    {
+      "img": "http://192.168.22.13:3000/img/tag_1.png",
+      "name": "好玩"
+    },
+    {
+      "img": "http://192.168.22.13:3000/img/tag_5.png",
+      "name": "社交"
+    },
+    {
+      "img": "http://192.168.22.13:3000/img/tag_2.png",
+      "name": "养成游戏"
+    },
+    {
+      "img": "http://192.168.22.13:3000/img/tag_3.png",
+      "name": "宠物"
+    },
+    {
+      "img": "http://192.168.22.13:3000/img/tag_4.png",
+      "name": "好玩"
+    },
+    {
+      "img": "http://192.168.22.13:3000/img/tag_5.png",
+      "name": "社交"
+    },
+    {
+      "img": "http://192.168.22.13:3000/img/tag_6.png",
+      "name": "养成游戏"
+    },
+    {
+      "img": "http://192.168.22.13:3000/img/tag_7.png",
+      "name": "宠物"
+    },
+    {
+      "img": "http://192.168.22.13:3000/img/tag_8.png",
+      "name": "宠物"
+    },
+    {
+      "img": "http://192.168.22.13:3000/img/tag_9.png",
+      "name": "好玩"
+    },
+    {
+      "img": "http://192.168.22.13:3000/img/tag_10.png",
+      "name": "社交"
+    },
+    {
+      "img": "http://192.168.22.13:3000/img/tag_7.png",
+      "name": "养成游戏"
+    }
+  ],
+  "TextSearchItem": {
+    "mlable": [
+      {
+        "img": "http://192.168.22.13:3000/img/tag_7.png",
+        "imgName": "好玩"
+      },
+      {
+        "img": "http://192.168.22.13:3000/img/tag_5.png",
+        "imgName": "  养成游戏"
+      },
+      {
+        "img": "http://192.168.22.13:3000/img/tag_2.png",
+        "imgName": "社交"
+      },
+      {
+        "img": "http://192.168.22.13:3000/img/tag_4.png",
+        "imgName": "宠物"
+      },
+      {
+        "img": "http://192.168.22.13:3000/img/tag_1.png",
+        "imgName": "好玩"
+      }
+    ],
+    "appDetail": [
+      {
+        "appImg": "http://192.168.22.13:3000/img/iconbig.png",
+        "appName": "色彩的故事",
+        "download": "http://192.168.22.13:3000/apk/app.apk"
+      },
+      {
+        "appImg": "http://192.168.22.13:3000/img/icon_6.png",
+        "appName": "植物大战僵尸",
+        "download": "http://192.168.22.13:3000/apk/app.apk"
+      },
+      {
+        "appImg": "http://192.168.22.13:3000/img/icon_2.png",
+        "appName": "天天过马路",
+        "download": "http://192.168.22.13:3000/apk/app.apk"
+      },
+      {
+        "appImg": "http://192.168.22.13:3000/img/icon_4.png",
+        "appName": "色彩的故事",
+        "download": "http://192.168.22.13:3000/apk/app.apk"
+      },
+      {
+        "appImg": "http://192.168.22.13:3000/img/icon_7.png",
+        "appName": "色彩的秘密",
+        "download": "http://192.168.22.13:3000/apk/app.apk"
+      },
+      {
+        "appImg": "http://192.168.22.13:3000/img/icon_3.png",
+        "appName": "达芬奇的密码",
+        "download": "http://192.168.22.13:3000/apk/app.apk"
+      }
+    ]
+  }
